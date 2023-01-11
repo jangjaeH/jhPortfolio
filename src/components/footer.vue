@@ -1,7 +1,7 @@
 <template>
   <footer class="fixed-bottom bg-dark">
     <div class="d-flex justify-content-between">
-      <div class="p-2 text-white">@2023 JangJaeHyeoks</div>
+      <div class="p-2 text-white">@2023 JangJaeHyeok</div>
       <div class="ml-auto p-2 border border-white text-white rounded">
         {{ nowTime }}
       </div>
