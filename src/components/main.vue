@@ -91,7 +91,6 @@ export default {
   background: linear-gradient(#5be6ba, #5ed1ad);
 }
 .bodyMain {
-  background-color: #6667ab;
   height: 100%;
 }
 .container-table {
