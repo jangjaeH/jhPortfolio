@@ -65,8 +65,16 @@
       <div class="border border-primary rounded w-25 bg-primary">
         <h5 class="text-white text-center">{{ timeLine }}</h5>
       </div>
-      <div class="row">
-        <smail>2019.03</smail>
+      <div class="row border border-primary">
+        <ul>
+          <li>
+            <small>2019.03</small>
+            <div class="row border rounded">
+              <h6>대림대학교 입학</h6>
+              <p>융합소프트웨어과 19학번</p>
+            </div>
+          </li>
+        </ul>
       </div>
       <div class="row">2</div>
       <div class="row">3</div>
